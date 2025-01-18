@@ -1,4 +1,4 @@
-# CameraCalibration
+# Camera Calibration using OpenCV
 
 ## Code 1
 * [CameraCalibration1.py](https://github.com/dbgpfl1206/CameraCalibration/blob/main/CameraCalibration1.py)
